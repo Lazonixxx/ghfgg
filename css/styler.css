@@ -95,6 +95,7 @@ color: var(--h1-color);
 .p{
   font-size: 16px;
 line-height: 1.87;
+ color: var(--body-color);
 }
 .link:hover,.link:focus{
 color: var(--link-color);
