@@ -175,4 +175,5 @@ color: var(--h3-color);
 font-size: 18px;
 line-height: 2;
 letter-spacing: 0.06em;
+  color: var(--h3-color);
 }
