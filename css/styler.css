@@ -143,12 +143,7 @@ line-height: 1.16;
   color: var(--h3-color);
   font-weight: 500;
 }
-.first-text{
-  font-weight: 700;
-  color: var(--h3-color);
-  font-size: 18px;
-line-height: 2;
-}
+
 .second-text{
   font-weight: 700;
   color: var(--h3-color);
