@@ -89,6 +89,7 @@ color: var(--background-color)
     list-style: none;
   }
   .difference-title{ 
+       line-height: 1.16; 
     letter-spacing: 0.06em;
     color: var(--h3-color);
     text-transform: uppercase;
